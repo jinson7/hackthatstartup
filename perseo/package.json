@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jinson7/hackthatstartup/issues"
   },
-  "homepage": "https://github.com/jinson7/hackthatstartup#readme"
+  "homepage": "https://github.com/jinson7/hackthatstartup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
