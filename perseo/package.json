@@ -2,7 +2,7 @@
   "name": "perseo",
   "version": "1.0.0",
   "description": "plataforma que permite a empresas encotrar a los mejores programadores",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "test"
   },
