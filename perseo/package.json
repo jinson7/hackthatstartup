@@ -1,0 +1,19 @@
+{
+  "name": "perseo",
+  "version": "1.0.0",
+  "description": "plataforma que permite a empresas encotrar a los mejores programadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinson7/hackthatstartup.git"
+  },
+  "author": "Jinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinson7/hackthatstartup/issues"
+  },
+  "homepage": "https://github.com/jinson7/hackthatstartup#readme"
+}
